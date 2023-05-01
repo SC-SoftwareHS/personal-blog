@@ -1,16 +1,11 @@
 ---
-name: Tails Azimuth
+name: Harrison Stoneham
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Investor
+company: Sylvanite Capital
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+twitter: https://twitter.com/jhstoneham
+linkedin: https://www.linkedin.com/in/harrison-s-2936586/
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Harrison Stoneham is a partner with Sylvanite Capital, a private investment firm focused on investing in public and private markets. Harrison lives in San Diego with his wife and 3 kids. He is a graduate of Westminster College and SMU Cox School Business School.
