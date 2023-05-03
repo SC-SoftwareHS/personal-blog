@@ -66,6 +66,15 @@ module.exports = withBundleAnalyzer({
       },
     ]
   },
+  async redirects() {
+    return [
+      {
+        source: '/lessons-learned-long-term-investing',
+        destination: '/blog/lessons-learned-long-term-investing',
+        permanent: true,
+      },
+    ]
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
