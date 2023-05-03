@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'A blog for Harrison Stoneham',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://harrisonstoneham.com',
+  siteUrl: 'https://www.harrisonstoneham.com',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
