@@ -74,7 +74,7 @@ module.exports = withBundleAnalyzer({
         permanent: true,
       },
       {
-        source: '/ways-to-combat-uncertainty/',
+        source: '/ways-to-combat-uncertainty',
         destination: '/blog/ways-to-combat-uncertainty',
         permanent: true,
       },
